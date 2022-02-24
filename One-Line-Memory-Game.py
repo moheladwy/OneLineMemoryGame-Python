@@ -42,7 +42,7 @@ for i in range(1, 21):
 # define our welcomed function.
 def Welcomed():
     print("\nWelcome in One Line Memory Game.")
-    print("Max Score in the Game = 20.\n")
+    print("Max Score in the Game = 10.\n")
 
 
 # define our clear screen function.
